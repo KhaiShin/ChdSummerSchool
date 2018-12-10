@@ -1,1 +1,3 @@
 # ChdSummerSchool
+
+My first repository
